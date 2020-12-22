@@ -7,5 +7,5 @@ mixelは"人々が混じり合えるSNS"を目的として開発しているソ�
 <h3>mixel OGP</h3>
 <img src="https://user-images.githubusercontent.com/75582579/102899561-730a8680-44ae-11eb-91ba-9426872cd0ff.png">
 <br>
-<h2>サービスホスティング</h2><br>
+<h2>Hosting Service</h2><br>
 ・Heroku
