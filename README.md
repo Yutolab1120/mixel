@@ -1,4 +1,6 @@
 # mixel
+## About mixel
+mixelは’人々が混じり合えるSNS'を目的として開発しているソーシャルネットワークサービスのプロジェクトです。
 <h3>mixel logo</h3>
 <img width="300px" height="150px" src="https://user-images.githubusercontent.com/75582579/102899264-ff687980-44ad-11eb-8efd-d5b9bd3a38d3.png">
 <br>
